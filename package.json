@@ -1,0 +1,26 @@
+{
+  "name": "flow-mobius",
+  "version": "1.0.0",
+  "description": "Allows for easy flow control when working with data structures\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dmuch \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D \u001b[C\u001b[Dm\u001b[2~u\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b much easier flow control when working with data structures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviemakz/flow-mobius.git"
+  },
+  "keywords": [
+    "node",
+    "object",
+    "array",
+    "flow",
+    "control"
+  ],
+  "author": "D.Makz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daviemakz/flow-mobius/issues"
+  },
+  "homepage": "https://github.com/daviemakz/flow-mobius#readme"
+}
